@@ -1,4 +1,4 @@
-# Hbysys [![StyleCI]
+# Hbysys
 
 > Hospital Operation Management (HOM) System
 
